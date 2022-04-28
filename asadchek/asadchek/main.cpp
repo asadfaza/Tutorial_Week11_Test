@@ -4,10 +4,7 @@
 //
 //  Created by ASADBEK FAZLIDDINOV on 28/04/22.
 //
-
-#include <iostream>
-
-using namespace std;
+#include "test.hpp"
 
 int main(int argc, const char * argv[]) {
     

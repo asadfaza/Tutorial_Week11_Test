@@ -9,5 +9,10 @@
 #define test_hpp
 
 #include <stdio.h>
+#include <iostream>
+
+using namespace std;
+
+
 
 #endif /* test_hpp */
